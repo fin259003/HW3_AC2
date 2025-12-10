@@ -40,12 +40,19 @@ The attacker never sees:
 
 Features
 -Two players: Alice and Bob
+
 -Independent 10×10 Battleship boards
+
 -Ships: 5, 4, 3, 2, 2
+
 -Automatic ship placement (no overlap)
+
 -Turn-based gameplay with hit/miss feedback
+
 -Game statistics after each turn
+
 -Win detection when all ship cells are hit
+
 -Secure hit/miss verification using Paillier Homomorphic Encryption
 
 
