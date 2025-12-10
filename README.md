@@ -1,6 +1,6 @@
 -- Homomorphic Encryption Battleship--
 
-A privacy-preserving Battleship game implemented using Paillier Homomorphic Encryption.
+A simple but concise privacy-preserving Battleship game implemented using Paillier Homomorphic Encryption.
 Each player has their own hidden 10×10 board with ships, and all hit/miss checks are performed without revealing board contents.
 
 Homework Overview
